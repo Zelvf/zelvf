@@ -30,11 +30,7 @@ If a task requires more than three manual steps, it deserves a programmatic solu
 #### 🛰️ [Solar-IoT Cold Storage](https://github.com/zelvf)
 *   **Description:** An off-grid preservation system with remote IoT monitoring for real-time temperature regulation.
 *   **Technical Highlight:** Designed and constructed for highly efficient data acquisition and control in off-grid environments.
-*   **Status:** `v1.0.0-Prototype`
-
-#### 🔧 [TemiFix Diagnostic Tools](https://github.com/zelvf)
-*   **Description:** A modular framework for automating electronics repair diagnostics and troubleshooting.
-*   **Status:** `In Development (Active)`
+*   **Status:** `Done`
 
 ---
 
