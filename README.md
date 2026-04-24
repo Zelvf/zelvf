@@ -1,4 +1,4 @@
-# ⚡ Terminal & Tooling Architect | Koya Temiloluwa Davies (zelvf)
+# ⚡ Terminal & Tooling Architect | Koya Temiloluwa (zelvf)
 
 > **"I blend hardware expertise with digital innovation."**
 > Full Stack Software Engineer & Electronics Engineering Graduate.
